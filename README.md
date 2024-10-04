@@ -68,8 +68,6 @@ The Vacation Tracking System (VTS) is a simple application that helps employees 
 
 ## Employee Flow Chart
 
-<h3>Project Documentation</h3>
-<iframe src="https://github.com/user-attachments/files/17256330/employee_flow.pdf" width="50%" height="50%"></iframe>
-
+[employee_flow.pdf](https://github.com/user-attachments/files/17256370/employee_flow.pdf)
 
  
