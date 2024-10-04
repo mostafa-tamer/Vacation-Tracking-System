@@ -74,12 +74,17 @@ The Vacation Tracking System (VTS) is a simple application that helps employees 
  
 <img src="https://github.com/user-attachments/assets/62015a4c-4aa1-47fd-8eaa-944938429557" width="50%" height="auto"> 
  
-## Database Table
+## Database Design
 
 <img src="https://github.com/user-attachments/assets/49f92096-0bf3-424a-aba4-e67b968e131d" width="50%" height="auto"> 
 
 ## Vacation Request State Machine Diagram 
 
 <img src="https://github.com/user-attachments/assets/dd012ffa-edc9-4878-8f86-710f3e61b9c9" width="50%" height="auto"> 
-  
 
+## Sequence Diagram
+
+<img src="https://github.com/user-attachments/assets/d87542d7-f3a8-4623-a721-7a9b9164c353" width="50%" height="auto"> 
+
+<img src="https://github.com/user-attachments/assets/4d5dc303-18bd-4347-b268-db97bdfafcf8" width="50%" height="auto"> 
+ 
