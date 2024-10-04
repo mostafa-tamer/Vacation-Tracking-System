@@ -1,4 +1,4 @@
-[employee_flow.pdf](https://github.com/user-attachments/files/17256351/employee_flow.pdf)# Vacation Tracking System (VTS)
+## Vacation Tracking System (VTS)
 
 ## Project Description
 The Vacation Tracking System (VTS) is a simple application that helps employees manage their vacation, sick leave, and personal days. This repo focuses on the "Manage Time" use case, allowing employees to request time off and receive approvals from managers, while keeping records and updating HR systems.
