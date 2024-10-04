@@ -1,7 +1,7 @@
 # Vacation Tracking System (VTS)
 
 ## Project Description
-The Vacation Tracking System (VTS) is designed to empower individual employees to manage their vacation time, sick leave, and personal time off efficiently. The system provides a user-friendly interface that allows employees to submit leave requests while ensuring compliance with company policies and local facility regulations. With features like manager approval, email notifications, and integration with HR systems, VTS streamlines the leave management process for both employees and HR personnel.
+The Vacation Tracking System (VTS) is a simple application that helps employees manage their vacation, sick leave, and personal days. This repo focuses on the "Manage Time" use case, allowing employees to request time off and receive approvals from managers, while keeping records and updating HR systems.
 
 ## Functional Requirements
 1. **Employee Self-management**:  
